@@ -1,0 +1,7 @@
+Name: Nguyen Van Loi dep trai
+Age: 18
+School: HCMUT
+Hobby: Soccer, thinking
+Hobby: Soccer, game, anything, reading
+
+
